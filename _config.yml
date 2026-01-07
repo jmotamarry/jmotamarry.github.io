@@ -1,3 +1,6 @@
+title: Jay Motamarry's Portfolio
+description: Software Engineer | Data Analyst | Creative Thinker
 theme: jekyll-theme-minimal
-title: My New Site Title
-description: This is the description that will show up in search results.
+logo: /assets/profile.jpg # You can add a profile picture later!
+show_downloads: false # Hides the "Download ZIP" buttons to make it look like a website, not a repo
+google_analytics: # UA-OIY-XXXXX (Optional: Add your ID here if you use GA)
