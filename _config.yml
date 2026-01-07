@@ -1,6 +1,6 @@
-title: Jay Motamarry's Portfolio
-description: Software Engineer | Data Analyst | Creative Thinker
+title: Jay Motamarry
+description: Electrical Engineering & Computer Sciences Student at UC Berkeley
 theme: jekyll-theme-minimal
 logo: /assets/profile.jpg # You can add a profile picture later!
-show_downloads: false # Hides the "Download ZIP" buttons to make it look like a website, not a repo
-google_analytics: # UA-OIY-XXXXX (Optional: Add your ID here if you use GA)
+show_downloads: false
+google_analytics:
